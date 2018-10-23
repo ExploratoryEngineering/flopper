@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+X:\sara-n210_breakout\Release\2018-04-09\Pick Place\SINGLE_BOARD_PNP.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09.04.18
+Time:       01.38
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U2","TPS63031DSKR","TopLayer","SON50P250X80_HS-11N","17.2500","7.2500","0","IC REG BUCK BST 3.3V 0.9A 10SON"
+"L1","1.5�F","TopLayer","INDP3030X11L","13.5000","7.2500","90","FIXED IND 1.5UH 2.04A 88.8 MOHM"
+"C5","10�F","TopLayer","CAPC1005X04L","16.6750","4.8250","180","CAP CER 10UF 6.3V X5R 0402"
+"C3","100nF","TopLayer","CAPC1005X04L","20.3750","6.7000","180","CAP CER 100nF 16V X7R 0402"
+"C2","10�F","TopLayer","CAPC1005X04L","16.6250","10.7500","180","CAP CER 10UF 6.3V X5R 0402"
+"C1","10�F","TopLayer","CAPC1005X04L","16.6250","9.7500","180","CAP CER 10UF 6.3V X5R 0402"
+"C6","33pF","TopLayer","CAPC1005X04L","16.1500","55.5500","90","CAP CER 33PF 50V NP0 0402"
+"C7","27pF","TopLayer","CAPC1005X04L","13.1500","56.6250","270","CAP CER 27PF 50V C0G/NP0 0402"
+"C8","47pF","TopLayer","CAPC1005X04L","9.6000","16.4500","90","CAP CER 47PF 50V C0G/NP0 0402"
+"C9","47pF","TopLayer","CAPC1005X04L","18.9250","15.7250","90","CAP CER 47PF 50V C0G/NP0 0402"
+"C10","47pF","TopLayer","CAPC1005X04L","17.9750","17.7000","90","CAP CER 47PF 50V C0G/NP0 0402"
+"C11","47pF","TopLayer","CAPC1005X04L","17.9750","19.9750","270","CAP CER 47PF 50V C0G/NP0 0402"
+"C12","100nF","TopLayer","CAPC1005X04L","18.8750","19.9750","270","CAP CER 100nF 16V X7R 0402"
+"D1","PESD0402-140","TopLayer","RESC1005X04L","14.1750","56.6250","270","TVS DIODE 14VWM 40VC 0402"
+"D2","B72590T8140S160","TopLayer","RESC1005X04L","5.7750","14.5250","360","VARISTOR 28V 2A 0402"
+"J1","U.FL-R-SMT-1(10)","TopLayer","COAXIAL-UFL","16.1500","59.1875","0","CONN UMC JACK STR 50 OHM SMD"
+"L2","39nH","TopLayer","INDC1005X04L","16.6250","54.1000","180","FIXED IND 39NH 250MA 1.06 OHM"
+"L3","82nH","TopLayer","INDC1005X04L","15.6750","57.1250","360","FIXED IND 82NH 150MA 1.2 OHM SMD"
+"R3","0.0","TopLayer","RESC1005X04L","16.1560","52.6490","90","RES SMD 0.0OHM JUMPER 1/16W 0402"
+"R4","10k","TopLayer","RESC1005X04L","9.5500","52.7000","90","RES SMD 10K OHM 1% 1/10W 0402"
+"SW1","RS-014R05B1-SMA10 RT","TopLayer","RS-014R05B1-SMA10","7.5250","7.1000","90","SWITCH TACTILE SPST-NO 0.05A 12V"
+"U1","SARA-N210-02B","TopLayer","UB-SARA-N2","12.8540","38.5520","0","uBlox Sara N210"
+"U3","SkySIM Argo 512 M2M SMD","TopLayer","QFN127P500X600X90_HS-9N","13.8250","17.5750","270","SkySIM� Argo 512 M2M SMD - LTE"
+"P1","2.54mm","TopLayer","HDR_1x15_2.54mm_THRU","1.5000","24.0500","90","Header, 1x15, Pitch 2.54mm, Male"
+"*","TELENOR_LOGO","TopLayer","TELENOR_4mmx3.8mm","-34.3250","-45.1750","360",""
+"Fid1","Fiducial mark","TopLayer","Fiducial","1.8250","1.7250","90","Fiducial Mark"
+"Fid2","Fiducial mark","TopLayer","Fiducial","23.0250","1.7750","90","Fiducial Mark"
+"Fid3","Fiducial mark","TopLayer","Fiducial","23.0250","60.2750","90","Fiducial Mark"
+"LOGO1","EE LOGO","BottomLayer","EE_LOGO","-34.3250","-45.1750","180","Exploratory Engineering Logo Silkscreen"
